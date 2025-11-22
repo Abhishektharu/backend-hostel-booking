@@ -1,0 +1,13 @@
+{
+  "full_name": "Abhishek Chaudhary",
+  "email": "abhishek@1example.com",
+  "password": "123456",
+  "phone": "9863450958"
+}
+
+login: 
+{
+  "email": "abhishek@1example.com",
+  "password": "123456"
+}
+
